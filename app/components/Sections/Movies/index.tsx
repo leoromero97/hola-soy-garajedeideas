@@ -21,7 +21,7 @@ function Movies() {
               src={wonder}
               alt="Wonder"
               title="Wonder"
-              className='object-cover'
+              className='object-cover hover:scale-150 transition-all delay-300'
             />
           </div>
           <div className='h-60 w-52 rounded-md overflow-hidden'>
@@ -29,7 +29,7 @@ function Movies() {
               src={avengers}
               alt="Avengers End Game"
               title="Avengers End Game"
-              className='object-cover'
+              className='object-cover hover:scale-150 transition-all delay-300'
             />
           </div>
           <div className='h-60 w-52 rounded-md overflow-hidden'>
@@ -37,7 +37,7 @@ function Movies() {
               src={coco}
               alt="Coco"
               title="Coco"
-              className='object-cover'
+              className='object-cover hover:scale-150 transition-all delay-300'
             />
           </div>
           <div className='h-60 w-52 rounded-md overflow-hidden'>
@@ -45,7 +45,7 @@ function Movies() {
               src={nights}
               alt="3O noches con mi Ex"
               title="3O noches con mi Ex"
-              className='object-cover'
+              className='object-cover hover:scale-150 transition-all delay-300'
             />
           </div>
           <div className='h-60 w-52 rounded-md overflow-hidden'>
@@ -53,7 +53,7 @@ function Movies() {
               src={starWars}
               alt="Star Wars"
               title="Star Wars"
-              className='object-cover'
+              className='object-cover hover:scale-150 transition-all delay-300'
             />
           </div>
           <div className='h-60 w-52 rounded-md overflow-hidden'>
@@ -61,7 +61,7 @@ function Movies() {
               src={twd}
               alt="The Walking Dead"
               title="The Walking Dead"
-              className='object-cover'
+              className='object-cover hover:scale-150 transition-all delay-300'
             />
           </div>
         </div>
